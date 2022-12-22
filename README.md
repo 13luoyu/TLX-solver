@@ -1,4 +1,10 @@
-# CDCL-based-SAT-solver
-## How to launch?
+# TLX-solver: A CDCL-based SAT Solver
 
-To start enter: python3 main.py test_filename
+To start, you need to have a **python** environment.
+
+Run command example: 
+
+    python main.py tests/sat/test1.txt
+
+All test files can be found under directory *tests/sat/* and *tests/unsat/*.
+
